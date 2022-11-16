@@ -1,6 +1,6 @@
-package homawork_2;
+package Java_homework.Java_homework;
 
-public class HomeWorkApp {
+public class HomeWorkApp_2 {
     public static void main(String[] args) {
         System.out.println(sumResult(5, 16));
         System.out.println("********************");

@@ -1,9 +1,9 @@
-package lesson_4;
+package Java_homework.Java_homework;
 
 import java.util.Random;
 import java.util.Scanner;
 
-public class TicTacToe {
+public class TicTacToe_HW4 {
     private static int size;
     private static int winSize;
 

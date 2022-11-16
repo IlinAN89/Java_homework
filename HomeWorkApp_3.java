@@ -1,6 +1,6 @@
-package homework_3;
+package Java_homework.Java_homework;
 
-public class HomeWorkApp {
+public class HomeWorkApp_3 {
     public static void main(String[] args) {
         int[] array1 = {1, 1, 0, 0, 1, 0, 1, 1, 0, 0};
         getArray1(array1);
